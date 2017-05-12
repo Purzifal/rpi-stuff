@@ -13,3 +13,6 @@ This is a script that removes everthing that i do not want on Rasbian as they ar
 
 ## python36.sh
 A script that automates the install of python 3.6 on a Raspberry Pi. This can take anywhere from 30 mins to a couple hours depending on the hardware.
+
+## .bash_aliases
+This goes in /home/[user]/ folder. Restart Terminal after creation.

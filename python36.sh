@@ -5,3 +5,4 @@ cd Python-3.6.0
 ./configure
 make
 sudo make install
+sudo pip3.6 install RPi.GPIO
